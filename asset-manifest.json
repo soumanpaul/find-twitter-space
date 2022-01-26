@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d63e469.css",
-    "main.js": "/static/js/main.1e7a4a3c.js",
-    "static/js/787.75c0b206.chunk.js": "/static/js/787.75c0b206.chunk.js",
-    "index.html": "/index.html",
-    "main.0d63e469.css.map": "/static/css/main.0d63e469.css.map",
-    "main.1e7a4a3c.js.map": "/static/js/main.1e7a4a3c.js.map",
-    "787.75c0b206.chunk.js.map": "/static/js/787.75c0b206.chunk.js.map"
+    "main.css": "/find-twitter-space/static/css/main.0d63e469.css",
+    "main.js": "/find-twitter-space/static/js/main.ae130983.js",
+    "static/js/787.75c0b206.chunk.js": "/find-twitter-space/static/js/787.75c0b206.chunk.js",
+    "index.html": "/find-twitter-space/index.html",
+    "main.0d63e469.css.map": "/find-twitter-space/static/css/main.0d63e469.css.map",
+    "main.ae130983.js.map": "/find-twitter-space/static/js/main.ae130983.js.map",
+    "787.75c0b206.chunk.js.map": "/find-twitter-space/static/js/787.75c0b206.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d63e469.css",
-    "static/js/main.1e7a4a3c.js"
+    "static/js/main.ae130983.js"
   ]
 }
