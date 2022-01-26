@@ -2,10 +2,7 @@
   "name": "find-twitter-space",
   "version": "0.1.0",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/soumanpaul/soumanpaul.github.io/find-twitter-space"
-  },
+  "homepage": "https://soumanpaul.github.io/find-twitter-space/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
