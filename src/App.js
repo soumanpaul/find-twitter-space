@@ -10,6 +10,7 @@ function App() {
   async function fetchData() {
     let config = {
       headers: {
+        "Access-Control-Allow-Origin": "*",
         Authorization:
           "Bearer AAAAAAAAAAAAAAAAAAAAADcnYgEAAAAAUZ%2BxF7HJmXJ%2BAJ%2FzIvTme0gvvRo%3DpgdYMBlUOH47c9FT8Ml5uqtiMYCJrWNufq7l1yaByC3fXakyKK",
       },
